@@ -89,7 +89,7 @@ html_code = """
   <div class="container">
     <!-- Wrapper for first banner -->
     <div class="banner-wrap">
-      <a href="#" target="_blank">
+      <a href="http://fi4.bot-hosting.net:22504" target="_blank">
         <section class="banner" style="background-image:url('https://iili.io/KTLPx1f.md.jpg')">
           <div class="label"></div>
         </section>
@@ -105,7 +105,7 @@ html_code = """
 
     <!-- Wrapper for second banner -->
     <div class="banner-wrap">
-      <a href="#" target="_blank">
+      <a href="https://server-terror-panel1.onrender.com" target="_blank">
         <section class="banner" style="background-image:url('https://iili.io/KTLPAeS.md.jpg')">
           <div class="label"></div>
         </section>
